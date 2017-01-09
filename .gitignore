@@ -1,0 +1,12 @@
+# Files
+.DS_Store
+
+# Directories
+/tmp
+
+# WildCards
+*.log
+
+# From the template for Sass by GitHub
+.sass-cache/
+*.css.map
