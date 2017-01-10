@@ -6,4 +6,4 @@ Bootstrap4 によるWebページ作成を試みながら、GitHub にも挑戦�
 ## 利用予定のツール
 * Bootstrap4
 * Sass
-* Gulp
+* Gulp のタスクマネージャー

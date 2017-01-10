@@ -1,6 +1,12 @@
-node_modules
-dist
-.tmp
-.sass-cache
-bower_components
-test/bower_components
+# Files
+.DS_Store
+
+# Directories
+/tmp
+
+# WildCards
+*.log
+
+# From the template for Sass by GitHub
+.sass-cache/
+*.css.map
